@@ -1,2 +1,8 @@
 resume_claude_session.sh
 .claude/PROFILE.md
+
+node_modules/
+dist/
+*.db
+*.db-journal
+
